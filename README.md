@@ -9,6 +9,7 @@ Olá, meu nome é Leandro Almeida, formado em Marketing, estudante de especializ
 Pai da Cyndi🐕‍🦺-
 
 😁👍Procurando Algo na area de Tecnologia.
-https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/)](https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/)
 
 
