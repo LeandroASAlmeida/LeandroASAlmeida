@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**LeandroASAlmeida/LeandroASAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Leandro Almeida, formado em Marketing, estudante de especialização de Desenvolvedor de software Full Stack. Apaixonado por TI, Design, pets, Animes, games and Barbearia. Sou barbeiro autônomo atualmente, estou mudando de área no momento.
 
-Here are some ideas to get you started:
+📍Blumenau / SC
+♈Ariano
+💕Casado
+🏳‍🌈LGBTS
+Pai da Cyndi🐕‍🦺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😁👍Procurando Algo na area de Tecnologia.
+https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/
+
+
