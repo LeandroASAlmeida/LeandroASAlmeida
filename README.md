@@ -3,7 +3,7 @@
 Olá, meu nome é Leandro Almeida, formado em Marketing, estudante de especialização de Desenvolvedor de software Full Stack. Apaixonado por TI, Design, pets, Animes, games and Barbearia. Sou barbeiro autônomo atualmente, estou mudando de área no momento.
 
 📍Blumenau / SC-
-♈Ariano--
+♈Ariano--  
 💕Casado--
 🏳‍🌈LGBTS--
 Pai da Cyndi🐕‍🦺-
