@@ -1,6 +1,6 @@
 # Hey 👋
 
-Olá, meu nome é Leandro Almeida, formado em Marketing, estudante de especialização de Desenvolvedor de software Full Stack. Apaixonado por TI, Design, pets, Animes, games and Barbearia. Sou barbeiro autônomo atualmente, estou mudando de área no momento.
+Olá, meu nome é Leandro Almeida, formado em Marketing, e atualmente, estudante de uma especialização de Desenvolvedor de software Full Stack. Apaixonado por TI, Design, Pets, Animes, Games and Barbearia. Sou barbeiro autônomo no momento e estou fazendo uma transição de carreira.
 
 📍Blumenau / SC-
 ♈Ariano--  
