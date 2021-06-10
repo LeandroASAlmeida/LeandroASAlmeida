@@ -11,4 +11,7 @@ Pai da Cyndi🐕‍🦺-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/)](https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/)
 
+[ Alt text](![unnamed](https://user-images.githubusercontent.com/79644610/121610655-e4be9880-ca2c-11eb-8ca1-eea97cd579f5.gif)
+)
+
 
