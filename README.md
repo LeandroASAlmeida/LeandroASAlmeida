@@ -41,19 +41,21 @@
 
 <tr>
 
+<td>Database</td>
+<td>
+
+![ReactNative](https://img.shields.io/badge/-Mysql-black?style=flat&logo=react)&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
 <td>IDE</td>
 <td>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-</td>
-</tr>
-<tr>
-
-<td>Database</td>
-<td>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;;
 
 </td>
 </tr>
