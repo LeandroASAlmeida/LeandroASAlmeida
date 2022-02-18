@@ -72,7 +72,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/)](https://www.linkedin.com/in/leandro-afonso-da-silva-de-almeida-7bb543119/)
 
-![alt text](http://url/to/img.png)
+![alt text](https://preview.redd.it/ujzh30k5tuoy.png?auto=webp&s=ac014cef40384971c24528d4c61e98f851b2571d)
 
 
 
