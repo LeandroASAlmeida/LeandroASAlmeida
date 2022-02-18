@@ -44,7 +44,7 @@
 <td>Database</td>
 <td>
 
-![ReactNative](https://img.shields.io/badge/-Mysql-black?style=flat&logo=react)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat&logo=react)&nbsp;
 
 </td>
 
