@@ -44,7 +44,7 @@
 <td>Database</td>
 <td>
 
-![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat&logo=react)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
 
