@@ -31,7 +31,8 @@
 <td>
  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/python-black?style=flatlogo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/Python-black?style=flatlogo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/python-black3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </td>
 </tr>
