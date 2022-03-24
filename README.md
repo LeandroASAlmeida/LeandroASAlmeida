@@ -32,7 +32,7 @@
  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/Python-black?style=flatlogo=python&logoColor=ffdd54)&nbsp;
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-black?style=for-the-flat&logo=python&logoColor=python)
 
 </td>
 </tr>
